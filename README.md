@@ -3,13 +3,13 @@
 This repo is a simple way to start building your Node application with Typescript.
 The repo configures basic set of rules and tooling around it to get you started immediately.
 
-* Typescript
-* NodeJS
-* Jest
-* VSCode
-* ESLint
-* Prettier
-* Nodemon
+-   Typescript
+-   NodeJS
+-   Jest
+-   VSCode
+-   ESLint
+-   Prettier
+-   Nodemon
 
 ## How to use the tools
 
@@ -33,6 +33,7 @@ yarn run (run your code)
 ```
 
 # License
+
 Copyright (c) 2020 Rajat Kumar
 
 Licensed under the MIT license.
