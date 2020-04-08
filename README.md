@@ -3,6 +3,8 @@
 This repo is a simple way to start building your Node application with Typescript.
 The repo configures basic set of rules and tooling around it to get you started immediately.
 
+Useful if you intend to use the following tools:
+
 -   Typescript
 -   NodeJS
 -   Jest
