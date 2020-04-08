@@ -1,7 +1,11 @@
 {
-  "name": "pptr-epl",
+  "name": "ts-starter",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "build/index.js",
+  "author": {
+    "name": "Rajat",
+    "url": "https://rajat.io"
+  },
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
